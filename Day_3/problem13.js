@@ -1,0 +1,6 @@
+var x=1;
+var y=2;
+var z=3;
+var max;
+max =(x>y)?(x>z ? x:z):(y>z?y:z);
+console.log(max);
